@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Aaargh";
+    src: url("../assets/fonts/Aaargh.ttf");
+    font-style: normal;
+}
+
+
+* {
+    font-family: "Aaargh" !important;
+}

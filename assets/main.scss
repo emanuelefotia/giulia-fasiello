@@ -1,0 +1,6 @@
+$font: "Aaargh";
+
+@use "vuetify" with (
+  $body-font-family: $font,
+  $heading-font-family: $font
+);
